@@ -40,6 +40,7 @@ int op;
 
  lado2 = leerFlotantePositivo("\ningrese el lado2: ");
 printf("La hipotenusa del triángulo con lado 1 %.2f y lado es %.2f es %.2f",lado1,lado2,hipotenusa(lado1,lado2));
+printf("La hipotenusa del triángulo con lado 1 %.2f y lado es %.2f es %.2f",lado1,lado2,hipotenusa(lado1,lado2));
  }break;
  case 3:{
  float longitud, tiempo;
